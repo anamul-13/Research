@@ -1,0 +1,9 @@
+Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Regulation Of Nuclear Cell Cycle DNA Replication (GO:0033262)	8-Jan	0.005587202	0.062566235	0	0	219.5494505	1138.863728	ATRX
+DNA Alkylation (GO:0006305)	15-Jan	0.010452241	0.062566235	0	0	109.7362637	500.5003914	ATRX
+Regulation Of Tubulin Deacetylation (GO:0090043)	17-Jan	0.011838189	0.062566235	0	0	96.00961538	425.939424	EP300
+Cellular Response To Inorganic Substance (GO:0071241)	18-Jan	0.012530487	0.062566235	0	0	90.35746606	395.7287162	ATRX
+Intrinsic Apoptotic Signaling Pathway In Response To DNA Damage By P53 Class Mediator (GO:0042771)	19-Jan	0.013222334	0.062566235	0	0	85.33333333	369.1390205	EP300
+DNA Methylation (GO:0006306)	20-Jan	0.013913732	0.062566235	0	0	80.83805668	345.5729133	ATRX
+Positive Regulation Of Cellular Response To Transforming Growth Factor Beta Stimulus (GO:1903846)	24-Jan	0.016674827	0.062566235	0	0	66.76588629	273.3298608	EP300
+Positive Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0030511)	24-Jan	0.016674827	0.062566235	0	0	66.76588629	273.3298608	EP300

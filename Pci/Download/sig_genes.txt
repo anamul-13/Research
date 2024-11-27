@@ -1,0 +1,16 @@
+#DataSet: datalist1
+"V1"
+"CDKL5" 0
+"BOD1L1" 0
+"THRAP3" 0
+"EVC" 0
+"GPATCH2L" 0
+"ABLIM1" 0
+"HIRA" 0
+"MYCBP2" 0
+"SNX29" 0
+"ATRX" 0
+"EP300" 0
+"RNMT" 0
+"HERC1" 0
+"EIF3A" 0

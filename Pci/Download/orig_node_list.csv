@@ -1,0 +1,173 @@
+Id,Label,Types
+2033,EP300,Seed
+8731,RNMT,Seed
+546,ATRX,Seed
+8925,HERC1,Seed
+92017,SNX29,Seed
+55668,GPATCH2L,Seed
+7290,HIRA,Seed
+23077,MYCBP2,Seed
+8661,EIF3A,Seed
+3983,ABLIM1,Seed
+6792,CDKL5,Seed
+2121,EVC,Seed
+9967,THRAP3,Seed
+259282,BOD1L1,Seed
+C477819,15-deoxyprostaglandin J2,Chemical
+C015262,"1,6-hexamethylene diisocyanate",Chemical
+C093973,2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one,Chemical
+C038890,"2,3,4,7,8-pentachlorodibenzofuran",Chemical
+C014211,"2,3,7,8-tetrachlorodibenzofuran",Chemical
+C029497,"2,3-bis(3'-hydroxybenzyl)butyrolactone",Chemical
+C434003,3-(4-methylphenylsulfonyl)-2-propenenitrile,Chemical
+C459179,"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",Chemical
+C516138,"(6-(4-(2-piperidin-1-ylethoxy)phenyl))-3-pyridin-4-ylpyrazolo(1,5-a)pyrimidine",Chemical
+D015123,"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide",Chemical
+D015124,8-Bromo Cyclic Adenosine Monophosphate,Chemical
+C037112,9-deoxy-delta-9-prostaglandin D2,Chemical
+D000082,Acetaminophen,Chemical
+C056165,acetovanillone,Chemical
+D000111,Acetylcysteine,Chemical
+D016604,Aflatoxin B1,Chemical
+C032311,aluminum fluoride,Chemical
+D000638,Amiodarone,Chemical
+D000666,Amphotericin B,Chemical
+C088115,anacardic acid,Chemical
+D018501,Antirheumatic Agents,Chemical
+D001152,Arsenicals,Chemical
+C006632,arsenic trioxide,Chemical
+D017638,"Asbestos, Crocidolite",Chemical
+D001205,Ascorbic Acid,Chemical
+D001554,Benzene,Chemical
+D001564,Benzo(a)pyrene,Chemical
+C072553,benzyloxycarbonylleucyl-leucyl-leucine aldehyde,Chemical
+D001599,Berberine,Chemical
+C044887,beta-methylcholine,Chemical
+D001710,Biotin,Chemical
+C006780,bisphenol A,Chemical
+D000069286,Bortezomib,Chemical
+C546611,brevetoxin 2,Chemical
+C018475,butyraldehyde,Chemical
+D020148,Butyric Acid,Chemical
+C584509,C646 compound,Chemical
+D002104,Cadmium,Chemical
+D002117,Calcitriol,Chemical
+D002166,Camptothecin,Chemical
+D002220,Carbamazepine,Chemical
+D002273,Carcinogens,Chemical
+D002945,Cisplatin,Chemical
+D003010,Clorgyline,Chemical
+C018021,cobaltous chloride,Chemical
+D003300,Copper,Chemical
+D019327,Copper Sulfate,Chemical
+D003375,Coumestrol,Chemical
+C030973,cupric oxide,Chemical
+D003474,Curcumin,Chemical
+D016572,Cyclosporine,Chemical
+C014347,decitabine,Chemical
+C499810,delta(12)-prostaglandin J(2),Chemical
+D003703,Demecolcine,Chemical
+D003907,Dexamethasone,Chemical
+D003976,Diazinon,Chemical
+D004008,Diclofenac,Chemical
+D004054,Diethylstilbestrol,Chemical
+D013196,Dihydrotestosterone,Chemical
+C007517,diphenyleneiodonium,Chemical
+D004317,Doxorubicin,Chemical
+D004391,Dust,Chemical
+D004610,Ellagic Acid,Chemical
+C118739,entinostat,Chemical
+D020536,Enzyme Activators,Chemical
+D004791,Enzyme Inhibitors,Chemical
+C045651,epigallocatechin gallate,Chemical
+D004958,Estradiol,Chemical
+D005020,Ethyl Methanesulfonate,Chemical
+D005047,Etoposide,Chemical
+D004397,Fonofos,Chemical
+D005557,Formaldehyde,Chemical
+C054597,garcinol,Chemical
+C106014,gedunin,Chemical
+C001277,geldanamycin,Chemical
+D019833,Genistein,Chemical
+D005947,Glucose,Chemical
+D006820,Hyaluronic Acid,Chemical
+D006830,Hydralazine,Chemical
+D006861,Hydrogen Peroxide,Chemical
+C013038,hydroxyhydroquinone,Chemical
+C051890,irinotecan,Chemical
+C561695,(+)-JQ1 compound,Chemical
+C410337,K 7174,Chemical
+C011890,kojic acid,Chemical
+D007854,Lead,Chemical
+D008094,Lithium,Chemical
+C530478,LYR 71,Chemical
+D058185,Magnetite Nanoparticles,Chemical
+D008558,Melphalan,Chemical
+D008727,Methotrexate,Chemical
+D008741,Methyl Methanesulfonate,Chemical
+D015735,Mifepristone,Chemical
+D016685,Mitomycin,Chemical
+D008942,Mitoxantrone,Chemical
+C016599,mono-(2-ethylhexyl)phthalate,Chemical
+D009153,Mutagens,Chemical
+C022838,nickel chloride,Chemical
+D009532,Nickel,Chemical
+C029938,nickel sulfate,Chemical
+D009534,Niclosamide,Chemical
+D009538,Nicotine,Chemical
+C558013,NSC 689534,Chemical
+D009853,Omeprazole,Chemical
+D010100,Oxygen,Chemical
+D015125,Oxyquinoline,Chemical
+D010278,Parathion,Chemical
+D052638,Particulate Matter,Chemical
+C410127,PCB 180,Chemical
+C046012,pentanal,Chemical
+C076994,perfluorooctane sulfonic acid,Chemical
+D010634,Phenobarbital,Chemical
+D010656,Phenylephrine,Chemical
+C006253,pirinixic acid,Chemical
+D010936,Plant Extracts,Chemical
+D010938,Plant Oils,Chemical
+D011078,Polychlorinated Biphenyls,Chemical
+C027373,potassium chromate(VI),Chemical
+D011374,Progesterone,Chemical
+D011794,Quercetin,Chemical
+C059514,resveratrol,Chemical
+C547185,riccardin D,Chemical
+D012293,Rifampin,Chemical
+C484876,scutellarin,Chemical
+D012643,Selenium,Chemical
+C002979,selenomethylselenocysteine,Chemical
+C078903,seocalcitol,Chemical
+D012822,Silicon Dioxide,Chemical
+D012906,Smoke,Chemical
+C017947,sodium arsenite,Chemical
+D018038,Sodium Selenite,Chemical
+D004113,Succimer,Chemical
+D013481,Superoxides,Chemical
+C061133,tamibarotene,Chemical
+D013629,Tamoxifen,Chemical
+C012568,terbufos,Chemical
+D020122,tert-Butylhydroperoxide,Chemical
+C004648,testosterone enanthate,Chemical
+D013739,Testosterone,Chemical
+D013749,Tetrachlorodibenzodioxin,Chemical
+D013755,Tetradecanoylphorbol Acetate,Chemical
+D013806,Theophylline,Chemical
+D013849,Thimerosal,Chemical
+C483909,torcetrapib,Chemical
+D014212,Tretinoin,Chemical
+C012589,trichostatin A,Chemical
+D014284,Triiodothyronine,Chemical
+C050414,tripterine,Chemical
+D014580,Ursodeoxycholic Acid,Chemical
+D014635,Valproic Acid,Chemical
+D014638,Vanadates,Chemical
+D001335,Vehicle Emissions,Chemical
+D014747,Vinblastine,Chemical
+D014750,Vincristine,Chemical
+D014810,Vitamin E,Chemical
+C111237,vorinostat,Chemical
+D015032,Zinc,Chemical
+C088658,zoledronic acid,Chemical

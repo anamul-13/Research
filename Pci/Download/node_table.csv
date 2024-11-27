@@ -1,0 +1,173 @@
+Id,Label,Degree,Betweenness,Expression
+2033,EP300,70,7673.35,0
+546,ATRX,41,3439.05,0
+3983,ABLIM1,30,2292.78,0
+8661,EIF3A,23,1663.23,0
+55668,GPATCH2L,23,1094.05,0
+7290,HIRA,21,1185.47,0
+23077,MYCBP2,21,1155.5,0
+8731,RNMT,18,1322.52,0
+92017,SNX29,14,587.77,0
+8925,HERC1,14,562.52,0
+9967,THRAP3,12,473.01,0
+6792,CDKL5,11,185.82,0
+2121,EVC,10,423.68,0
+259282,BOD1L1,9,161.26,0
+D014212,Tretinoin,8,931.9,0
+D019327,Copper Sulfate,8,836.4,0
+D018501,Antirheumatic Agents,8,356.76,0
+D014635,Valproic Acid,7,697.67,0
+D001564,Benzo(a)pyrene,7,190.15,0
+C561695,(+)-JQ1 compound,6,401.1,0
+D016572,Cyclosporine,6,365.61,0
+D015123,"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide",6,262.3,0
+D016604,Aflatoxin B1,6,210.4,0
+C027373,potassium chromate(VI),6,203.93,0
+C018475,butyraldehyde,5,475.25,0
+C012589,trichostatin A,5,416.86,0
+C051890,irinotecan,5,342.46,0
+C111237,vorinostat,5,319.6,0
+C006632,arsenic trioxide,5,319.45,0
+D003375,Coumestrol,5,52.18,0
+C059514,resveratrol,4,342.1,0
+D004958,Estradiol,4,283.54,0
+D000082,Acetaminophen,4,160.05,0
+C061133,tamibarotene,4,141.58,0
+D010936,Plant Extracts,4,103.92,0
+C459179,"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",4,84.37,0
+C516138,"(6-(4-(2-piperidin-1-ylethoxy)phenyl))-3-pyridin-4-ylpyrazolo(1,5-a)pyrimidine",4,84.37,0
+D008741,Methyl Methanesulfonate,4,79.23,0
+D013849,Thimerosal,4,66.98,0
+C045651,epigallocatechin gallate,4,25.62,0
+D004317,Doxorubicin,3,269.6,0
+D018038,Sodium Selenite,3,185.06,0
+C017947,sodium arsenite,3,159.39,0
+D002945,Cisplatin,3,142.44,0
+D013749,Tetrachlorodibenzodioxin,3,123.16,0
+D006861,Hydrogen Peroxide,3,85.26,0
+D004791,Enzyme Inhibitors,3,77.16,0
+D012643,Selenium,3,61.96,0
+C029497,"2,3-bis(3'-hydroxybenzyl)butyrolactone",3,45.83,0
+C029938,nickel sulfate,3,19.73,0
+D011078,Polychlorinated Biphenyls,2,143.77,0
+D015124,8-Bromo Cyclic Adenosine Monophosphate,2,115.97,0
+C006780,bisphenol A,2,115.97,0
+D005047,Etoposide,2,104,0
+C118739,entinostat,2,62.35,0
+D003907,Dexamethasone,2,52.9,0
+C584509,C646 compound,2,44.86,0
+D058185,Magnetite Nanoparticles,2,39.56,0
+D016685,Mitomycin,2,39.56,0
+D004113,Succimer,2,39.56,0
+C030973,cupric oxide,2,29.64,0
+D013806,Theophylline,2,27.53,0
+D014810,Vitamin E,2,27.53,0
+D002117,Calcitriol,2,22.13,0
+D002104,Cadmium,2,16.34,0
+D003703,Demecolcine,2,13.98,0
+D011794,Quercetin,2,13.98,0
+D005020,Ethyl Methanesulfonate,2,12.53,0
+D009532,Nickel,2,11.62,0
+D006830,Hydralazine,2,11.17,0
+D002273,Carcinogens,2,7.98,0
+D005557,Formaldehyde,2,6.12,0
+D014750,Vincristine,2,6.12,0
+C046012,pentanal,2,5.67,0
+D003010,Clorgyline,2,4.6,0
+C001277,geldanamycin,2,4.6,0
+C076994,perfluorooctane sulfonic acid,2,4.6,0
+C477819,15-deoxyprostaglandin J2,1,0,0
+C015262,"1,6-hexamethylene diisocyanate",1,0,0
+C093973,2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one,1,0,0
+C038890,"2,3,4,7,8-pentachlorodibenzofuran",1,0,0
+C014211,"2,3,7,8-tetrachlorodibenzofuran",1,0,0
+C434003,3-(4-methylphenylsulfonyl)-2-propenenitrile,1,0,0
+C037112,9-deoxy-delta-9-prostaglandin D2,1,0,0
+C056165,acetovanillone,1,0,0
+D000111,Acetylcysteine,1,0,0
+C032311,aluminum fluoride,1,0,0
+D000638,Amiodarone,1,0,0
+D000666,Amphotericin B,1,0,0
+C088115,anacardic acid,1,0,0
+D001152,Arsenicals,1,0,0
+D017638,"Asbestos, Crocidolite",1,0,0
+D001205,Ascorbic Acid,1,0,0
+D001554,Benzene,1,0,0
+C072553,benzyloxycarbonylleucyl-leucyl-leucine aldehyde,1,0,0
+D001599,Berberine,1,0,0
+C044887,beta-methylcholine,1,0,0
+D001710,Biotin,1,0,0
+D000069286,Bortezomib,1,0,0
+C546611,brevetoxin 2,1,0,0
+D020148,Butyric Acid,1,0,0
+D002166,Camptothecin,1,0,0
+D002220,Carbamazepine,1,0,0
+C018021,cobaltous chloride,1,0,0
+D003300,Copper,1,0,0
+D003474,Curcumin,1,0,0
+C014347,decitabine,1,0,0
+C499810,delta(12)-prostaglandin J(2),1,0,0
+D003976,Diazinon,1,0,0
+D004008,Diclofenac,1,0,0
+D004054,Diethylstilbestrol,1,0,0
+D013196,Dihydrotestosterone,1,0,0
+C007517,diphenyleneiodonium,1,0,0
+D004391,Dust,1,0,0
+D004610,Ellagic Acid,1,0,0
+D020536,Enzyme Activators,1,0,0
+D004397,Fonofos,1,0,0
+C054597,garcinol,1,0,0
+C106014,gedunin,1,0,0
+D019833,Genistein,1,0,0
+D005947,Glucose,1,0,0
+D006820,Hyaluronic Acid,1,0,0
+C013038,hydroxyhydroquinone,1,0,0
+C410337,K 7174,1,0,0
+C011890,kojic acid,1,0,0
+D007854,Lead,1,0,0
+D008094,Lithium,1,0,0
+C530478,LYR 71,1,0,0
+D008558,Melphalan,1,0,0
+D008727,Methotrexate,1,0,0
+D015735,Mifepristone,1,0,0
+D008942,Mitoxantrone,1,0,0
+C016599,mono-(2-ethylhexyl)phthalate,1,0,0
+D009153,Mutagens,1,0,0
+C022838,nickel chloride,1,0,0
+D009534,Niclosamide,1,0,0
+D009538,Nicotine,1,0,0
+C558013,NSC 689534,1,0,0
+D009853,Omeprazole,1,0,0
+D010100,Oxygen,1,0,0
+D015125,Oxyquinoline,1,0,0
+D010278,Parathion,1,0,0
+D052638,Particulate Matter,1,0,0
+C410127,PCB 180,1,0,0
+D010634,Phenobarbital,1,0,0
+D010656,Phenylephrine,1,0,0
+C006253,pirinixic acid,1,0,0
+D010938,Plant Oils,1,0,0
+D011374,Progesterone,1,0,0
+C547185,riccardin D,1,0,0
+D012293,Rifampin,1,0,0
+C484876,scutellarin,1,0,0
+C002979,selenomethylselenocysteine,1,0,0
+C078903,seocalcitol,1,0,0
+D012822,Silicon Dioxide,1,0,0
+D012906,Smoke,1,0,0
+D013481,Superoxides,1,0,0
+D013629,Tamoxifen,1,0,0
+C012568,terbufos,1,0,0
+D020122,tert-Butylhydroperoxide,1,0,0
+C004648,testosterone enanthate,1,0,0
+D013739,Testosterone,1,0,0
+D013755,Tetradecanoylphorbol Acetate,1,0,0
+C483909,torcetrapib,1,0,0
+D014284,Triiodothyronine,1,0,0
+C050414,tripterine,1,0,0
+D014580,Ursodeoxycholic Acid,1,0,0
+D014638,Vanadates,1,0,0
+D001335,Vehicle Emissions,1,0,0
+D014747,Vinblastine,1,0,0
+D015032,Zinc,1,0,0
+C088658,zoledronic acid,1,0,0

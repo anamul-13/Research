@@ -1,0 +1,5871 @@
+{
+ "nodes": [
+ {
+ "id": "2033",
+"idnb": 1,
+"label": "EP300",
+"x": 4.286228,
+"y": -10.7764,
+"molType": "Seed",
+"size":       12,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF0000",
+"colorw": "#FF0000",
+"colorc": "#FF0000",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       70,
+"between": 7673.346 
+} 
+},
+{
+ "id": "8731",
+"idnb": 2,
+"label": "RNMT",
+"x": 2.556016,
+"y": 0.3501274,
+"molType": "Seed",
+"size": 7.702773,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF4100",
+"colorw": "#FF4100",
+"colorc": "#FF4100",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       18,
+"between": 1322.522 
+} 
+},
+{
+ "id": "546",
+"idnb": 3,
+"label": "ATRX",
+"x": 5.089427,
+"y": -1.945331,
+"molType": "Seed",
+"size": 10.11228,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF1B00",
+"colorw": "#FF1B00",
+"colorc": "#FF1B00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       41,
+"between": 3439.047 
+} 
+},
+{
+ "id": "8925",
+"idnb": 4,
+"label": "HERC1",
+"x": 0.8125619,
+"y": -5.412197,
+"molType": "Seed",
+"size": 7.086863,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF6300",
+"colorw": "#FF6300",
+"colorc": "#FF6300",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       14,
+"between": 562.5173 
+} 
+},
+{
+ "id": "92017",
+"idnb": 5,
+"label": "SNX29",
+"x": -0.2397373,
+"y": -4.202491,
+"molType": "Seed",
+"size": 7.086863,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF6000",
+"colorw": "#FF6000",
+"colorc": "#FF6000",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       14,
+"between": 587.7659 
+} 
+},
+{
+ "id": "55668",
+"idnb": 6,
+"label": "GPATCH2L",
+"x": 1.919342,
+"y": -2.336267,
+"molType": "Seed",
+"size": 8.357443,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF4700",
+"colorw": "#FF4700",
+"colorc": "#FF4700",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       23,
+"between": 1094.051 
+} 
+},
+{
+ "id": "7290",
+"idnb": 7,
+"label": "HIRA",
+"x": 1.029424,
+"y": -3.198163,
+"molType": "Seed",
+"size": 8.108261,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF4400",
+"colorw": "#FF4400",
+"colorc": "#FF4400",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       21,
+"between": 1185.473 
+} 
+},
+{
+ "id": "23077",
+"idnb": 8,
+"label": "MYCBP2",
+"x": 0.6143099,
+"y": -6.035008,
+"molType": "Seed",
+"size": 8.108261,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF4700",
+"colorw": "#FF4700",
+"colorc": "#FF4700",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       21,
+"between": 1155.496 
+} 
+},
+{
+ "id": "8661",
+"idnb": 9,
+"label": "EIF3A",
+"x": 6.975634,
+"y": -3.473483,
+"molType": "Seed",
+"size": 8.357443,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF3A00",
+"colorw": "#FF3A00",
+"colorc": "#FF3A00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       23,
+"between":  1663.23 
+} 
+},
+{
+ "id": "3983",
+"idnb": 10,
+"label": "ABLIM1",
+"x": -0.7443163,
+"y": -3.339156,
+"molType": "Seed",
+"size": 9.127237,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF2C00",
+"colorw": "#FF2C00",
+"colorc": "#FF2C00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       30,
+"between": 2292.782 
+} 
+},
+{
+ "id": "6792",
+"idnb": 11,
+"label": "CDKL5",
+"x":   1.5425,
+"y": -4.633235,
+"molType": "Seed",
+"size": 6.548474,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF8D00",
+"colorw": "#FF8D00",
+"colorc": "#FF8D00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       11,
+"between":  185.825 
+} 
+},
+{
+ "id": "2121",
+"idnb": 12,
+"label": "EVC",
+"x": 3.139989,
+"y": -0.7976901,
+"molType": "Seed",
+"size": 6.349909,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF6E00",
+"colorw": "#FF6E00",
+"colorc": "#FF6E00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       10,
+"between": 423.6815 
+} 
+},
+{
+ "id": "9967",
+"idnb": 13,
+"label": "THRAP3",
+"x":  1.44193,
+"y": -4.974795,
+"molType": "Seed",
+"size":  6.73678,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF6A00",
+"colorw": "#FF6A00",
+"colorc": "#FF6A00",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":       12,
+"between": 473.0082 
+} 
+},
+{
+ "id": "259282",
+"idnb": 14,
+"label": "BOD1L1",
+"x": 5.435411,
+"y": -4.352197,
+"molType": "Seed",
+"size": 6.139777,
+"seedArr": "seed",
+"type": "circle",
+"colorb": "#FF9300",
+"colorw": "#FF9300",
+"colorc": "#FF9300",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        9,
+"between": 161.2564 
+} 
+},
+{
+ "id": "C477819",
+"idnb": 15,
+"label": "15-deoxyprostaglandin J2",
+"x": 3.551736,
+"y": -13.66947,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C015262",
+"idnb": 16,
+"label": "1,6-hexamethylene diisocyanate",
+"x": 1.841706,
+"y": 3.973153,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C093973",
+"idnb": 17,
+"label": "2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one",
+"x": 6.810049,
+"y": -11.5658,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C038890",
+"idnb": 18,
+"label": "2,3,4,7,8-pentachlorodibenzofuran",
+"x": 5.849586,
+"y": -15.15897,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C014211",
+"idnb": 19,
+"label": "2,3,7,8-tetrachlorodibenzofuran",
+"x": 8.220649,
+"y": -12.41115,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C029497",
+"idnb": 20,
+"label": "2,3-bis(3'-hydroxybenzyl)butyrolactone",
+"x": 2.062297,
+"y": -3.011873,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 45.82969 
+} 
+},
+{
+ "id": "C434003",
+"idnb": 21,
+"label": "3-(4-methylphenylsulfonyl)-2-propenenitrile",
+"x": 8.478453,
+"y": -11.83534,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C459179",
+"idnb": 22,
+"label": "4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",
+"x": 2.590705,
+"y": -3.200899,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 84.36762 
+} 
+},
+{
+ "id": "C516138",
+"idnb": 23,
+"label": "(6-(4-(2-piperidin-1-ylethoxy)phenyl))-3-pyridin-4-ylpyrazolo(1,5-a)pyrimidine",
+"x":  2.34791,
+"y": -3.575642,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 84.36762 
+} 
+},
+{
+ "id": "D015123",
+"idnb": 24,
+"label": "7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide",
+"x": 3.068141,
+"y": -3.585191,
+"molType": "Chemical",
+"size": 5.922916,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        6,
+"between": 262.2982 
+} 
+},
+{
+ "id": "D015124",
+"idnb": 25,
+"label": "8-Bromo Cyclic Adenosine Monophosphate",
+"x": 0.8897514,
+"y": -7.855109,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 115.9697 
+} 
+},
+{
+ "id": "C037112",
+"idnb": 26,
+"label": "9-deoxy-delta-9-prostaglandin D2",
+"x": 7.583971,
+"y": -11.00722,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D000082",
+"idnb": 27,
+"label": "Acetaminophen",
+"x": 3.434794,
+"y": -2.478891,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between":  160.047 
+} 
+},
+{
+ "id": "C056165",
+"idnb": 28,
+"label": "acetovanillone",
+"x": 7.200873,
+"y": -13.98784,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D000111",
+"idnb": 29,
+"label": "Acetylcysteine",
+"x": 4.260651,
+"y": -14.09863,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D016604",
+"idnb": 30,
+"label": "Aflatoxin B1",
+"x": 0.5182015,
+"y": -2.722042,
+"molType": "Chemical",
+"size": 5.922916,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        6,
+"between":  210.403 
+} 
+},
+{
+ "id": "C032311",
+"idnb": 31,
+"label": "aluminum fluoride",
+"x": -3.045713,
+"y": -5.858393,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D000638",
+"idnb": 32,
+"label": "Amiodarone",
+"x": -2.310451,
+"y": -1.160456,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D000666",
+"idnb": 33,
+"label": "Amphotericin B",
+"x": 3.660487,
+"y": -15.38454,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C088115",
+"idnb": 34,
+"label": "anacardic acid",
+"x": 2.758731,
+"y": -13.31854,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D018501",
+"idnb": 35,
+"label": "Antirheumatic Agents",
+"x": 1.697822,
+"y": -2.90716,
+"molType": "Chemical",
+"size": 6.416519,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        8,
+"between": 356.7581 
+} 
+},
+{
+ "id": "D001152",
+"idnb": 36,
+"label": "Arsenicals",
+"x": 4.935147,
+"y": -13.7321,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C006632",
+"idnb": 37,
+"label": "arsenic trioxide",
+"x": 2.353108,
+"y": -6.562142,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 319.4528 
+} 
+},
+{
+ "id": "D017638",
+"idnb": 38,
+"label": "Asbestos, Crocidolite",
+"x": -1.937784,
+"y": -6.523332,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001205",
+"idnb": 39,
+"label": "Ascorbic Acid",
+"x": 11.14999,
+"y": -2.872313,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001554",
+"idnb": 40,
+"label": "Benzene",
+"x": -4.371892,
+"y": -0.7902881,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001564",
+"idnb": 41,
+"label": "Benzo(a)pyrene",
+"x": 0.1397971,
+"y": -3.943344,
+"molType": "Chemical",
+"size": 6.178283,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        7,
+"between": 190.1458 
+} 
+},
+{
+ "id": "C072553",
+"idnb": 42,
+"label": "benzyloxycarbonylleucyl-leucyl-leucine aldehyde",
+"x": 5.104001,
+"y": -12.68175,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001599",
+"idnb": 43,
+"label": "Berberine",
+"x": 0.8685524,
+"y": -12.78167,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C044887",
+"idnb": 44,
+"label": "beta-methylcholine",
+"x": -3.761511,
+"y": -0.4421917,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001710",
+"idnb": 45,
+"label": "Biotin",
+"x": -2.040445,
+"y": -0.4459027,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C006780",
+"idnb": 46,
+"label": "bisphenol A",
+"x": 0.5124474,
+"y": -8.068943,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 115.9697 
+} 
+},
+{
+ "id": "D000069286",
+"idnb": 47,
+"label": "Bortezomib",
+"x": 0.04700353,
+"y":  1.48495,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C546611",
+"idnb": 48,
+"label": "brevetoxin 2",
+"x": 8.021965,
+"y": 0.01244768,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C018475",
+"idnb": 49,
+"label": "butyraldehyde",
+"x": 2.989927,
+"y": -5.009462,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 475.2469 
+} 
+},
+{
+ "id": "D020148",
+"idnb": 50,
+"label": "Butyric Acid",
+"x": 6.367723,
+"y": -14.78865,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C584509",
+"idnb": 51,
+"label": "C646 compound",
+"x": 2.480444,
+"y": -8.810697,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 44.85737 
+} 
+},
+{
+ "id": "D002104",
+"idnb": 52,
+"label": "Cadmium",
+"x": 0.592824,
+"y": 0.492738,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 16.34478 
+} 
+},
+{
+ "id": "D002117",
+"idnb": 53,
+"label": "Calcitriol",
+"x": -0.1342581,
+"y": 0.03613811,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 22.12741 
+} 
+},
+{
+ "id": "D002166",
+"idnb": 54,
+"label": "Camptothecin",
+"x": 3.278631,
+"y": -12.59478,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D002220",
+"idnb": 55,
+"label": "Carbamazepine",
+"x": 10.55399,
+"y": -4.189916,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D002273",
+"idnb": 56,
+"label": "Carcinogens",
+"x": -1.874567,
+"y": -4.887117,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 7.979843 
+} 
+},
+{
+ "id": "D002945",
+"idnb": 57,
+"label": "Cisplatin",
+"x": 5.038387,
+"y": -6.702475,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between":  142.444 
+} 
+},
+{
+ "id": "D003010",
+"idnb": 58,
+"label": "Clorgyline",
+"x": 7.286306,
+"y": -2.403907,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 4.598473 
+} 
+},
+{
+ "id": "C018021",
+"idnb": 59,
+"label": "cobaltous chloride",
+"x": 2.306166,
+"y": -12.32242,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D003300",
+"idnb": 60,
+"label": "Copper",
+"x": 11.09378,
+"y": -3.80108,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D019327",
+"idnb": 61,
+"label": "Copper Sulfate",
+"x": 3.506803,
+"y": -4.318032,
+"molType": "Chemical",
+"size": 6.416519,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        8,
+"between": 836.4011 
+} 
+},
+{
+ "id": "D003375",
+"idnb": 62,
+"label": "Coumestrol",
+"x": -0.09518055,
+"y": -4.597752,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 52.17685 
+} 
+},
+{
+ "id": "C030973",
+"idnb": 63,
+"label": "cupric oxide",
+"x": 4.656096,
+"y":  1.35429,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 29.64336 
+} 
+},
+{
+ "id": "D003474",
+"idnb": 64,
+"label": "Curcumin",
+"x": 7.279421,
+"y": -12.35715,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D016572",
+"idnb": 65,
+"label": "Cyclosporine",
+"x": 3.089384,
+"y": -1.926627,
+"molType": "Chemical",
+"size": 5.922916,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        6,
+"between": 365.6135 
+} 
+},
+{
+ "id": "C014347",
+"idnb": 66,
+"label": "decitabine",
+"x":  1.92853,
+"y": -14.48632,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C499810",
+"idnb": 67,
+"label": "delta(12)-prostaglandin J(2)",
+"x": 3.949513,
+"y": -14.79614,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D003703",
+"idnb": 68,
+"label": "Demecolcine",
+"x": 5.247524,
+"y": -1.07633,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 13.97516 
+} 
+},
+{
+ "id": "D003907",
+"idnb": 69,
+"label": "Dexamethasone",
+"x": 1.413078,
+"y": -9.622369,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 52.90053 
+} 
+},
+{
+ "id": "D003976",
+"idnb": 70,
+"label": "Diazinon",
+"x": 6.261589,
+"y": 1.402292,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D004008",
+"idnb": 71,
+"label": "Diclofenac",
+"x": 10.98918,
+"y": -1.938586,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D004054",
+"idnb": 72,
+"label": "Diethylstilbestrol",
+"x": 8.184763,
+"y": -13.10282,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D013196",
+"idnb": 73,
+"label": "Dihydrotestosterone",
+"x":  3.06405,
+"y": -15.03834,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C007517",
+"idnb": 74,
+"label": "diphenyleneiodonium",
+"x": 6.002921,
+"y": -11.87856,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D004317",
+"idnb": 75,
+"label": "Doxorubicin",
+"x": 3.571366,
+"y":  -6.2614,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between":  269.598 
+} 
+},
+{
+ "id": "D004391",
+"idnb": 76,
+"label": "Dust",
+"x": 10.45837,
+"y": -1.505835,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D004610",
+"idnb": 77,
+"label": "Ellagic Acid",
+"x": 5.703506,
+"y": -13.3863,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C118739",
+"idnb": 78,
+"label": "entinostat",
+"x": 2.798639,
+"y": -7.591126,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 62.35443 
+} 
+},
+{
+ "id": "D020536",
+"idnb": 79,
+"label": "Enzyme Activators",
+"x": 1.698521,
+"y": -12.87602,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D004791",
+"idnb": 80,
+"label": "Enzyme Inhibitors",
+"x": 0.3604349,
+"y": -1.609684,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 77.15865 
+} 
+},
+{
+ "id": "C045651",
+"idnb": 81,
+"label": "epigallocatechin gallate",
+"x": -0.8444562,
+"y": -5.548142,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 25.62324 
+} 
+},
+{
+ "id": "D004958",
+"idnb": 82,
+"label": "Estradiol",
+"x": 1.151515,
+"y": -6.802707,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 283.5372 
+} 
+},
+{
+ "id": "D005020",
+"idnb": 83,
+"label": "Ethyl Methanesulfonate",
+"x": -1.115664,
+"y": -0.9838372,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 12.53488 
+} 
+},
+{
+ "id": "D005047",
+"idnb": 84,
+"label": "Etoposide",
+"x": 7.080823,
+"y": -7.536805,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 103.9995 
+} 
+},
+{
+ "id": "D004397",
+"idnb": 85,
+"label": "Fonofos",
+"x":  8.73106,
+"y": -0.4412871,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D005557",
+"idnb": 86,
+"label": "Formaldehyde",
+"x": 2.478548,
+"y": 1.114419,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 6.119337 
+} 
+},
+{
+ "id": "C054597",
+"idnb": 87,
+"label": "garcinol",
+"x":  1.33958,
+"y": -12.15729,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C106014",
+"idnb": 88,
+"label": "gedunin",
+"x": -3.073476,
+"y": -8.01662,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C001277",
+"idnb": 89,
+"label": "geldanamycin",
+"x": 7.710508,
+"y": -3.473026,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 4.598473 
+} 
+},
+{
+ "id": "D019833",
+"idnb": 90,
+"label": "Genistein",
+"x":  2.44777,
+"y": -14.92775,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D005947",
+"idnb": 91,
+"label": "Glucose",
+"x": 8.355416,
+"y": -11.12566,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D006820",
+"idnb": 92,
+"label": "Hyaluronic Acid",
+"x": 7.694585,
+"y": -11.74808,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D006830",
+"idnb": 93,
+"label": "Hydralazine",
+"x": -1.050702,
+"y": -6.86997,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 11.17271 
+} 
+},
+{
+ "id": "D006861",
+"idnb": 94,
+"label": "Hydrogen Peroxide",
+"x": 4.745085,
+"y": -3.786203,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 85.25545 
+} 
+},
+{
+ "id": "C013038",
+"idnb": 95,
+"label": "hydroxyhydroquinone",
+"x": 10.56482,
+"y": -3.267971,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C051890",
+"idnb": 96,
+"label": "irinotecan",
+"x": 4.156028,
+"y": -5.529982,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 342.4567 
+} 
+},
+{
+ "id": "C561695",
+"idnb": 97,
+"label": "(+)-JQ1 compound",
+"x": 1.639879,
+"y": -6.206181,
+"molType": "Chemical",
+"size": 5.922916,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        6,
+"between": 401.1047 
+} 
+},
+{
+ "id": "C410337",
+"idnb": 98,
+"label": "K 7174",
+"x": 3.427879,
+"y": 4.306577,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C011890",
+"idnb": 99,
+"label": "kojic acid",
+"x": 6.840234,
+"y": -13.1029,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D007854",
+"idnb": 100,
+"label": "Lead",
+"x": 2.775558,
+"y": 4.281251,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D008094",
+"idnb": 101,
+"label": "Lithium",
+"x": 2.190812,
+"y": 4.592712,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C530478",
+"idnb": 102,
+"label": "LYR 71",
+"x": 4.453318,
+"y": -15.42866,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D058185",
+"idnb": 103,
+"label": "Magnetite Nanoparticles",
+"x": 1.742748,
+"y": -0.5472203,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 39.56161 
+} 
+},
+{
+ "id": "D008558",
+"idnb": 104,
+"label": "Melphalan",
+"x": -4.137269,
+"y": -4.82554,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D008727",
+"idnb": 105,
+"label": "Methotrexate",
+"x": -2.915024,
+"y": -6.578673,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D008741",
+"idnb": 106,
+"label": "Methyl Methanesulfonate",
+"x": -0.8203052,
+"y": -2.19258,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 79.22585 
+} 
+},
+{
+ "id": "D015735",
+"idnb": 107,
+"label": "Mifepristone",
+"x": -4.115934,
+"y": -1.358178,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D016685",
+"idnb": 108,
+"label": "Mitomycin",
+"x": 1.999494,
+"y": -1.018859,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 39.56161 
+} 
+},
+{
+ "id": "D008942",
+"idnb": 109,
+"label": "Mitoxantrone",
+"x": -2.285413,
+"y": -8.804891,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C016599",
+"idnb": 110,
+"label": "mono-(2-ethylhexyl)phthalate",
+"x": 3.278125,
+"y": -14.37817,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D009153",
+"idnb": 111,
+"label": "Mutagens",
+"x": -3.768726,
+"y": -3.659635,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C022838",
+"idnb": 112,
+"label": "nickel chloride",
+"x": 1.252058,
+"y": 4.271611,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D009532",
+"idnb": 113,
+"label": "Nickel",
+"x": 2.977077,
+"y": 2.434405,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 11.62003 
+} 
+},
+{
+ "id": "C029938",
+"idnb": 114,
+"label": "nickel sulfate",
+"x": -0.4799203,
+"y": -2.628852,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 19.73187 
+} 
+},
+{
+ "id": "D009534",
+"idnb": 115,
+"label": "Niclosamide",
+"x": 7.937438,
+"y": -10.37117,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D009538",
+"idnb": 116,
+"label": "Nicotine",
+"x": 8.712924,
+"y": 0.2931379,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C558013",
+"idnb": 117,
+"label": "NSC 689534",
+"x": 10.52864,
+"y": -2.409705,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D009853",
+"idnb": 118,
+"label": "Omeprazole",
+"x": 2.543507,
+"y": -14.10556,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D010100",
+"idnb": 119,
+"label": "Oxygen",
+"x": 5.917823,
+"y": -14.14156,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D015125",
+"idnb": 120,
+"label": "Oxyquinoline",
+"x": -1.533329,
+"y": 0.1281431,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D010278",
+"idnb": 121,
+"label": "Parathion",
+"x":  8.37993,
+"y": 0.8794876,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D052638",
+"idnb": 122,
+"label": "Particulate Matter",
+"x": 6.523098,
+"y": -13.80754,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C410127",
+"idnb": 123,
+"label": "PCB 180",
+"x": 6.941091,
+"y": -10.55155,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C046012",
+"idnb": 124,
+"label": "pentanal",
+"x": -0.1064848,
+"y": -0.6863259,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between":  5.66575 
+} 
+},
+{
+ "id": "C076994",
+"idnb": 125,
+"label": "perfluorooctane sulfonic acid",
+"x": 7.680984,
+"y": -2.858879,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 4.598473 
+} 
+},
+{
+ "id": "D010634",
+"idnb": 126,
+"label": "Phenobarbital",
+"x": -3.34927,
+"y": -7.380955,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D010656",
+"idnb": 127,
+"label": "Phenylephrine",
+"x": 6.960651,
+"y": -14.56982,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C006253",
+"idnb": 128,
+"label": "pirinixic acid",
+"x": 6.255146,
+"y": -12.6942,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D010936",
+"idnb": 129,
+"label": "Plant Extracts",
+"x": 2.156073,
+"y": -1.972453,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 103.9247 
+} 
+},
+{
+ "id": "D010938",
+"idnb": 130,
+"label": "Plant Oils",
+"x": 0.6977974,
+"y": 3.860434,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D011078",
+"idnb": 131,
+"label": "Polychlorinated Biphenyls",
+"x": 5.997231,
+"y": -6.617133,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 143.7736 
+} 
+},
+{
+ "id": "C027373",
+"idnb": 132,
+"label": "potassium chromate(VI)",
+"x": 1.360846,
+"y": -3.809181,
+"molType": "Chemical",
+"size": 5.922916,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        6,
+"between": 203.9292 
+} 
+},
+{
+ "id": "D011374",
+"idnb": 133,
+"label": "Progesterone",
+"x": -4.870024,
+"y": -3.902909,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D011794",
+"idnb": 134,
+"label": "Quercetin",
+"x": 5.545417,
+"y": -1.615644,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 13.97516 
+} 
+},
+{
+ "id": "C059514",
+"idnb": 135,
+"label": "resveratrol",
+"x":  2.79701,
+"y": -5.86708,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 342.1012 
+} 
+},
+{
+ "id": "C547185",
+"idnb": 136,
+"label": "riccardin D",
+"x": 7.437269,
+"y": 0.5501351,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D012293",
+"idnb": 137,
+"label": "Rifampin",
+"x": 6.777262,
+"y": 1.937507,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C484876",
+"idnb": 138,
+"label": "scutellarin",
+"x":  1.43442,
+"y": -14.02955,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D012643",
+"idnb": 139,
+"label": "Selenium",
+"x": 6.205052,
+"y": -0.8456831,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 61.95595 
+} 
+},
+{
+ "id": "C002979",
+"idnb": 140,
+"label": "selenomethylselenocysteine",
+"x": 7.537956,
+"y": -13.07693,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C078903",
+"idnb": 141,
+"label": "seocalcitol",
+"x": -5.07786,
+"y": -2.474168,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D012822",
+"idnb": 142,
+"label": "Silicon Dioxide",
+"x": 1.105014,
+"y": -13.46081,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D012906",
+"idnb": 143,
+"label": "Smoke",
+"x": -4.34935,
+"y": -2.071875,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C017947",
+"idnb": 144,
+"label": "sodium arsenite",
+"x": 1.408378,
+"y": -7.888513,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between":  159.385 
+} 
+},
+{
+ "id": "D018038",
+"idnb": 145,
+"label": "Sodium Selenite",
+"x": 4.619478,
+"y": -7.162785,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 185.0585 
+} 
+},
+{
+ "id": "D004113",
+"idnb": 146,
+"label": "Succimer",
+"x": 1.447776,
+"y": -1.003908,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 39.56161 
+} 
+},
+{
+ "id": "D013481",
+"idnb": 147,
+"label": "Superoxides",
+"x": 4.187593,
+"y": -12.99312,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C061133",
+"idnb": 148,
+"label": "tamibarotene",
+"x": 4.240733,
+"y": -1.335229,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 141.5845 
+} 
+},
+{
+ "id": "D013629",
+"idnb": 149,
+"label": "Tamoxifen",
+"x": 5.386013,
+"y": -14.54562,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C012568",
+"idnb": 150,
+"label": "terbufos",
+"x": 7.806025,
+"y": 1.180855,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D020122",
+"idnb": 151,
+"label": "tert-Butylhydroperoxide",
+"x": -4.872473,
+"y": -1.620358,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C004648",
+"idnb": 152,
+"label": "testosterone enanthate",
+"x": 6.003112,
+"y": 2.030429,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D013739",
+"idnb": 153,
+"label": "Testosterone",
+"x": 4.067323,
+"y":  3.01075,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D013749",
+"idnb": 154,
+"label": "Tetrachlorodibenzodioxin",
+"x": 2.068645,
+"y": -7.356846,
+"molType": "Chemical",
+"size": 5.034944,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        3,
+"between": 123.1589 
+} 
+},
+{
+ "id": "D013755",
+"idnb": 155,
+"label": "Tetradecanoylphorbol Acetate",
+"x":  7.76326,
+"y": -13.77508,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D013806",
+"idnb": 156,
+"label": "Theophylline",
+"x": 8.011685,
+"y": -1.445916,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 27.53097 
+} 
+},
+{
+ "id": "D013849",
+"idnb": 157,
+"label": "Thimerosal",
+"x": 3.958384,
+"y": -2.391468,
+"molType": "Chemical",
+"size": 5.351786,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        4,
+"between": 66.98022 
+} 
+},
+{
+ "id": "C483909",
+"idnb": 158,
+"label": "torcetrapib",
+"x": 7.520036,
+"y": 1.747564,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D014212",
+"idnb": 159,
+"label": "Tretinoin",
+"x": 3.818154,
+"y": -4.178703,
+"molType": "Chemical",
+"size": 6.416519,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        8,
+"between":  931.899 
+} 
+},
+{
+ "id": "C012589",
+"idnb": 160,
+"label": "trichostatin A",
+"x": 3.160365,
+"y": -5.541365,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 416.8616 
+} 
+},
+{
+ "id": "D014284",
+"idnb": 161,
+"label": "Triiodothyronine",
+"x": -2.512218,
+"y": -1.986319,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C050414",
+"idnb": 162,
+"label": "tripterine",
+"x": -2.471567,
+"y": -8.186607,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D014580",
+"idnb": 163,
+"label": "Ursodeoxycholic Acid",
+"x": 5.168731,
+"y": -15.25391,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D014635",
+"idnb": 164,
+"label": "Valproic Acid",
+"x": 3.329331,
+"y": -4.708687,
+"molType": "Chemical",
+"size": 6.178283,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        7,
+"between": 697.6708 
+} 
+},
+{
+ "id": "D014638",
+"idnb": 165,
+"label": "Vanadates",
+"x": -4.503517,
+"y": -2.849234,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D001335",
+"idnb": 166,
+"label": "Vehicle Emissions",
+"x":  4.70145,
+"y": -14.71478,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D014747",
+"idnb": 167,
+"label": "Vinblastine",
+"x": -5.081929,
+"y": -3.250197,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "D014750",
+"idnb": 168,
+"label": "Vincristine",
+"x": 1.742058,
+"y": 1.109126,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 6.119337 
+} 
+},
+{
+ "id": "D014810",
+"idnb": 169,
+"label": "Vitamin E",
+"x": 8.439452,
+"y": -1.925555,
+"molType": "Chemical",
+"size": 4.712947,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        2,
+"between": 27.53097 
+} 
+},
+{
+ "id": "C111237",
+"idnb": 170,
+"label": "vorinostat",
+"x":   4.0297,
+"y": -6.114176,
+"molType": "Chemical",
+"size": 5.648069,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        5,
+"between": 319.6017 
+} 
+},
+{
+ "id": "D015032",
+"idnb": 171,
+"label": "Zinc",
+"x": 2.011856,
+"y": -13.52752,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+},
+{
+ "id": "C088658",
+"idnb": 172,
+"label": "zoledronic acid",
+"x": 6.962864,
+"y": 1.132678,
+"molType": "Chemical",
+"size":      4.5,
+"seedArr": "notSeed",
+"type": "square",
+"colorb": "#4363d8",
+"colorw": "#4363d8",
+"colorc": "#4363d8",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"expcolc": "#b3b3b3",
+"highlight":        0,
+"attributes": {
+ "expr":        0,
+"degree":        1,
+"between":        0 
+} 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "2033",
+"target": "C477819",
+"direction": "NA" 
+},
+{
+ "id": "2",
+"source": "2033",
+"target": "C093973",
+"direction": "NA" 
+},
+{
+ "id": "3",
+"source": "2033",
+"target": "C038890",
+"direction": "NA" 
+},
+{
+ "id": "4",
+"source": "2033",
+"target": "C014211",
+"direction": "NA" 
+},
+{
+ "id": "5",
+"source": "2033",
+"target": "C434003",
+"direction": "NA" 
+},
+{
+ "id": "6",
+"source": "2033",
+"target": "D015124",
+"direction": "NA" 
+},
+{
+ "id": "7",
+"source": "2033",
+"target": "C037112",
+"direction": "NA" 
+},
+{
+ "id": "8",
+"source": "2033",
+"target": "C056165",
+"direction": "NA" 
+},
+{
+ "id": "9",
+"source": "2033",
+"target": "D000111",
+"direction": "NA" 
+},
+{
+ "id": "10",
+"source": "2033",
+"target": "D000666",
+"direction": "NA" 
+},
+{
+ "id": "11",
+"source": "2033",
+"target": "C088115",
+"direction": "NA" 
+},
+{
+ "id": "12",
+"source": "2033",
+"target": "D001152",
+"direction": "NA" 
+},
+{
+ "id": "13",
+"source": "2033",
+"target": "C006632",
+"direction": "NA" 
+},
+{
+ "id": "14",
+"source": "2033",
+"target": "C072553",
+"direction": "NA" 
+},
+{
+ "id": "15",
+"source": "2033",
+"target": "D001599",
+"direction": "NA" 
+},
+{
+ "id": "16",
+"source": "2033",
+"target": "C006780",
+"direction": "NA" 
+},
+{
+ "id": "17",
+"source": "2033",
+"target": "C018475",
+"direction": "NA" 
+},
+{
+ "id": "18",
+"source": "2033",
+"target": "D020148",
+"direction": "NA" 
+},
+{
+ "id": "19",
+"source": "2033",
+"target": "C584509",
+"direction": "NA" 
+},
+{
+ "id": "20",
+"source": "2033",
+"target": "D002166",
+"direction": "NA" 
+},
+{
+ "id": "21",
+"source": "2033",
+"target": "D002945",
+"direction": "NA" 
+},
+{
+ "id": "22",
+"source": "2033",
+"target": "C018021",
+"direction": "NA" 
+},
+{
+ "id": "23",
+"source": "2033",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "24",
+"source": "2033",
+"target": "D003474",
+"direction": "NA" 
+},
+{
+ "id": "25",
+"source": "2033",
+"target": "C014347",
+"direction": "NA" 
+},
+{
+ "id": "26",
+"source": "2033",
+"target": "C499810",
+"direction": "NA" 
+},
+{
+ "id": "27",
+"source": "2033",
+"target": "D003907",
+"direction": "NA" 
+},
+{
+ "id": "28",
+"source": "2033",
+"target": "D004054",
+"direction": "NA" 
+},
+{
+ "id": "29",
+"source": "2033",
+"target": "D013196",
+"direction": "NA" 
+},
+{
+ "id": "30",
+"source": "2033",
+"target": "C007517",
+"direction": "NA" 
+},
+{
+ "id": "31",
+"source": "2033",
+"target": "D004317",
+"direction": "NA" 
+},
+{
+ "id": "32",
+"source": "2033",
+"target": "D004610",
+"direction": "NA" 
+},
+{
+ "id": "33",
+"source": "2033",
+"target": "C118739",
+"direction": "NA" 
+},
+{
+ "id": "34",
+"source": "2033",
+"target": "D020536",
+"direction": "NA" 
+},
+{
+ "id": "35",
+"source": "2033",
+"target": "D004958",
+"direction": "NA" 
+},
+{
+ "id": "36",
+"source": "2033",
+"target": "D005047",
+"direction": "NA" 
+},
+{
+ "id": "37",
+"source": "2033",
+"target": "C054597",
+"direction": "NA" 
+},
+{
+ "id": "38",
+"source": "2033",
+"target": "D019833",
+"direction": "NA" 
+},
+{
+ "id": "39",
+"source": "2033",
+"target": "D005947",
+"direction": "NA" 
+},
+{
+ "id": "40",
+"source": "2033",
+"target": "D006820",
+"direction": "NA" 
+},
+{
+ "id": "41",
+"source": "2033",
+"target": "C051890",
+"direction": "NA" 
+},
+{
+ "id": "42",
+"source": "2033",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "43",
+"source": "2033",
+"target": "C011890",
+"direction": "NA" 
+},
+{
+ "id": "44",
+"source": "2033",
+"target": "C530478",
+"direction": "NA" 
+},
+{
+ "id": "45",
+"source": "2033",
+"target": "C016599",
+"direction": "NA" 
+},
+{
+ "id": "46",
+"source": "2033",
+"target": "D009534",
+"direction": "NA" 
+},
+{
+ "id": "47",
+"source": "2033",
+"target": "D009853",
+"direction": "NA" 
+},
+{
+ "id": "48",
+"source": "2033",
+"target": "D010100",
+"direction": "NA" 
+},
+{
+ "id": "49",
+"source": "2033",
+"target": "D052638",
+"direction": "NA" 
+},
+{
+ "id": "50",
+"source": "2033",
+"target": "C410127",
+"direction": "NA" 
+},
+{
+ "id": "51",
+"source": "2033",
+"target": "D010656",
+"direction": "NA" 
+},
+{
+ "id": "52",
+"source": "2033",
+"target": "C006253",
+"direction": "NA" 
+},
+{
+ "id": "53",
+"source": "2033",
+"target": "D011078",
+"direction": "NA" 
+},
+{
+ "id": "54",
+"source": "2033",
+"target": "C059514",
+"direction": "NA" 
+},
+{
+ "id": "55",
+"source": "2033",
+"target": "C484876",
+"direction": "NA" 
+},
+{
+ "id": "56",
+"source": "2033",
+"target": "C002979",
+"direction": "NA" 
+},
+{
+ "id": "57",
+"source": "2033",
+"target": "D012822",
+"direction": "NA" 
+},
+{
+ "id": "58",
+"source": "2033",
+"target": "C017947",
+"direction": "NA" 
+},
+{
+ "id": "59",
+"source": "2033",
+"target": "D018038",
+"direction": "NA" 
+},
+{
+ "id": "60",
+"source": "2033",
+"target": "D013481",
+"direction": "NA" 
+},
+{
+ "id": "61",
+"source": "2033",
+"target": "D013629",
+"direction": "NA" 
+},
+{
+ "id": "62",
+"source": "2033",
+"target": "D013749",
+"direction": "NA" 
+},
+{
+ "id": "63",
+"source": "2033",
+"target": "D013755",
+"direction": "NA" 
+},
+{
+ "id": "64",
+"source": "2033",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "65",
+"source": "2033",
+"target": "C012589",
+"direction": "NA" 
+},
+{
+ "id": "66",
+"source": "2033",
+"target": "D014580",
+"direction": "NA" 
+},
+{
+ "id": "67",
+"source": "2033",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "68",
+"source": "2033",
+"target": "D001335",
+"direction": "NA" 
+},
+{
+ "id": "69",
+"source": "2033",
+"target": "C111237",
+"direction": "NA" 
+},
+{
+ "id": "70",
+"source": "2033",
+"target": "D015032",
+"direction": "NA" 
+},
+{
+ "id": "71",
+"source": "8731",
+"target": "C015262",
+"direction": "NA" 
+},
+{
+ "id": "72",
+"source": "8731",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "73",
+"source": "8731",
+"target": "D002104",
+"direction": "NA" 
+},
+{
+ "id": "74",
+"source": "8731",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "75",
+"source": "8731",
+"target": "C030973",
+"direction": "NA" 
+},
+{
+ "id": "76",
+"source": "8731",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "77",
+"source": "8731",
+"target": "D004791",
+"direction": "NA" 
+},
+{
+ "id": "78",
+"source": "8731",
+"target": "C410337",
+"direction": "NA" 
+},
+{
+ "id": "79",
+"source": "8731",
+"target": "D007854",
+"direction": "NA" 
+},
+{
+ "id": "80",
+"source": "8731",
+"target": "D008094",
+"direction": "NA" 
+},
+{
+ "id": "81",
+"source": "8731",
+"target": "C022838",
+"direction": "NA" 
+},
+{
+ "id": "82",
+"source": "8731",
+"target": "D009532",
+"direction": "NA" 
+},
+{
+ "id": "83",
+"source": "8731",
+"target": "D010936",
+"direction": "NA" 
+},
+{
+ "id": "84",
+"source": "8731",
+"target": "D010938",
+"direction": "NA" 
+},
+{
+ "id": "85",
+"source": "8731",
+"target": "C061133",
+"direction": "NA" 
+},
+{
+ "id": "86",
+"source": "8731",
+"target": "D013849",
+"direction": "NA" 
+},
+{
+ "id": "87",
+"source": "8731",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "88",
+"source": "8731",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "89",
+"source": "546",
+"target": "C029497",
+"direction": "NA" 
+},
+{
+ "id": "90",
+"source": "546",
+"target": "C459179",
+"direction": "NA" 
+},
+{
+ "id": "91",
+"source": "546",
+"target": "C516138",
+"direction": "NA" 
+},
+{
+ "id": "92",
+"source": "546",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "93",
+"source": "546",
+"target": "D000082",
+"direction": "NA" 
+},
+{
+ "id": "94",
+"source": "546",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "95",
+"source": "546",
+"target": "C546611",
+"direction": "NA" 
+},
+{
+ "id": "96",
+"source": "546",
+"target": "C018475",
+"direction": "NA" 
+},
+{
+ "id": "97",
+"source": "546",
+"target": "D003010",
+"direction": "NA" 
+},
+{
+ "id": "98",
+"source": "546",
+"target": "C030973",
+"direction": "NA" 
+},
+{
+ "id": "99",
+"source": "546",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "100",
+"source": "546",
+"target": "D003976",
+"direction": "NA" 
+},
+{
+ "id": "101",
+"source": "546",
+"target": "D004397",
+"direction": "NA" 
+},
+{
+ "id": "102",
+"source": "546",
+"target": "C001277",
+"direction": "NA" 
+},
+{
+ "id": "103",
+"source": "546",
+"target": "D006861",
+"direction": "NA" 
+},
+{
+ "id": "104",
+"source": "546",
+"target": "C051890",
+"direction": "NA" 
+},
+{
+ "id": "105",
+"source": "546",
+"target": "D058185",
+"direction": "NA" 
+},
+{
+ "id": "106",
+"source": "546",
+"target": "D016685",
+"direction": "NA" 
+},
+{
+ "id": "107",
+"source": "546",
+"target": "D009538",
+"direction": "NA" 
+},
+{
+ "id": "108",
+"source": "546",
+"target": "D010278",
+"direction": "NA" 
+},
+{
+ "id": "109",
+"source": "546",
+"target": "C076994",
+"direction": "NA" 
+},
+{
+ "id": "110",
+"source": "546",
+"target": "D010936",
+"direction": "NA" 
+},
+{
+ "id": "111",
+"source": "546",
+"target": "D011078",
+"direction": "NA" 
+},
+{
+ "id": "112",
+"source": "546",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "113",
+"source": "546",
+"target": "C059514",
+"direction": "NA" 
+},
+{
+ "id": "114",
+"source": "546",
+"target": "C547185",
+"direction": "NA" 
+},
+{
+ "id": "115",
+"source": "546",
+"target": "D012293",
+"direction": "NA" 
+},
+{
+ "id": "116",
+"source": "546",
+"target": "D012643",
+"direction": "NA" 
+},
+{
+ "id": "117",
+"source": "546",
+"target": "D004113",
+"direction": "NA" 
+},
+{
+ "id": "118",
+"source": "546",
+"target": "C061133",
+"direction": "NA" 
+},
+{
+ "id": "119",
+"source": "546",
+"target": "C012568",
+"direction": "NA" 
+},
+{
+ "id": "120",
+"source": "546",
+"target": "C004648",
+"direction": "NA" 
+},
+{
+ "id": "121",
+"source": "546",
+"target": "D013806",
+"direction": "NA" 
+},
+{
+ "id": "122",
+"source": "546",
+"target": "D013849",
+"direction": "NA" 
+},
+{
+ "id": "123",
+"source": "546",
+"target": "C483909",
+"direction": "NA" 
+},
+{
+ "id": "124",
+"source": "546",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "125",
+"source": "546",
+"target": "C012589",
+"direction": "NA" 
+},
+{
+ "id": "126",
+"source": "546",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "127",
+"source": "546",
+"target": "D014810",
+"direction": "NA" 
+},
+{
+ "id": "128",
+"source": "546",
+"target": "C111237",
+"direction": "NA" 
+},
+{
+ "id": "129",
+"source": "546",
+"target": "C088658",
+"direction": "NA" 
+},
+{
+ "id": "130",
+"source": "8925",
+"target": "C029497",
+"direction": "NA" 
+},
+{
+ "id": "131",
+"source": "8925",
+"target": "C032311",
+"direction": "NA" 
+},
+{
+ "id": "132",
+"source": "8925",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "133",
+"source": "8925",
+"target": "C006632",
+"direction": "NA" 
+},
+{
+ "id": "134",
+"source": "8925",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "135",
+"source": "8925",
+"target": "D003375",
+"direction": "NA" 
+},
+{
+ "id": "136",
+"source": "8925",
+"target": "C045651",
+"direction": "NA" 
+},
+{
+ "id": "137",
+"source": "8925",
+"target": "D006861",
+"direction": "NA" 
+},
+{
+ "id": "138",
+"source": "8925",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "139",
+"source": "8925",
+"target": "D008727",
+"direction": "NA" 
+},
+{
+ "id": "140",
+"source": "8925",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "141",
+"source": "8925",
+"target": "C017947",
+"direction": "NA" 
+},
+{
+ "id": "142",
+"source": "8925",
+"target": "D013749",
+"direction": "NA" 
+},
+{
+ "id": "143",
+"source": "8925",
+"target": "C111237",
+"direction": "NA" 
+},
+{
+ "id": "144",
+"source": "92017",
+"target": "C029497",
+"direction": "NA" 
+},
+{
+ "id": "145",
+"source": "92017",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "146",
+"source": "92017",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "147",
+"source": "92017",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "148",
+"source": "92017",
+"target": "C018475",
+"direction": "NA" 
+},
+{
+ "id": "149",
+"source": "92017",
+"target": "D002273",
+"direction": "NA" 
+},
+{
+ "id": "150",
+"source": "92017",
+"target": "D003375",
+"direction": "NA" 
+},
+{
+ "id": "151",
+"source": "92017",
+"target": "C045651",
+"direction": "NA" 
+},
+{
+ "id": "152",
+"source": "92017",
+"target": "D008558",
+"direction": "NA" 
+},
+{
+ "id": "153",
+"source": "92017",
+"target": "D008741",
+"direction": "NA" 
+},
+{
+ "id": "154",
+"source": "92017",
+"target": "D009153",
+"direction": "NA" 
+},
+{
+ "id": "155",
+"source": "92017",
+"target": "D010936",
+"direction": "NA" 
+},
+{
+ "id": "156",
+"source": "92017",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "157",
+"source": "92017",
+"target": "C017947",
+"direction": "NA" 
+},
+{
+ "id": "158",
+"source": "55668",
+"target": "C459179",
+"direction": "NA" 
+},
+{
+ "id": "159",
+"source": "55668",
+"target": "C516138",
+"direction": "NA" 
+},
+{
+ "id": "160",
+"source": "55668",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "161",
+"source": "55668",
+"target": "D000082",
+"direction": "NA" 
+},
+{
+ "id": "162",
+"source": "55668",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "163",
+"source": "55668",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "164",
+"source": "55668",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "165",
+"source": "55668",
+"target": "D000069286",
+"direction": "NA" 
+},
+{
+ "id": "166",
+"source": "55668",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "167",
+"source": "55668",
+"target": "D003375",
+"direction": "NA" 
+},
+{
+ "id": "168",
+"source": "55668",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "169",
+"source": "55668",
+"target": "D003703",
+"direction": "NA" 
+},
+{
+ "id": "170",
+"source": "55668",
+"target": "D005020",
+"direction": "NA" 
+},
+{
+ "id": "171",
+"source": "55668",
+"target": "D005557",
+"direction": "NA" 
+},
+{
+ "id": "172",
+"source": "55668",
+"target": "C051890",
+"direction": "NA" 
+},
+{
+ "id": "173",
+"source": "55668",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "174",
+"source": "55668",
+"target": "D008741",
+"direction": "NA" 
+},
+{
+ "id": "175",
+"source": "55668",
+"target": "C029938",
+"direction": "NA" 
+},
+{
+ "id": "176",
+"source": "55668",
+"target": "C046012",
+"direction": "NA" 
+},
+{
+ "id": "177",
+"source": "55668",
+"target": "D011794",
+"direction": "NA" 
+},
+{
+ "id": "178",
+"source": "55668",
+"target": "C012589",
+"direction": "NA" 
+},
+{
+ "id": "179",
+"source": "55668",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "180",
+"source": "55668",
+"target": "D014750",
+"direction": "NA" 
+},
+{
+ "id": "181",
+"source": "7290",
+"target": "C459179",
+"direction": "NA" 
+},
+{
+ "id": "182",
+"source": "7290",
+"target": "C516138",
+"direction": "NA" 
+},
+{
+ "id": "183",
+"source": "7290",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "184",
+"source": "7290",
+"target": "D000638",
+"direction": "NA" 
+},
+{
+ "id": "185",
+"source": "7290",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "186",
+"source": "7290",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "187",
+"source": "7290",
+"target": "D001710",
+"direction": "NA" 
+},
+{
+ "id": "188",
+"source": "7290",
+"target": "C018475",
+"direction": "NA" 
+},
+{
+ "id": "189",
+"source": "7290",
+"target": "D002104",
+"direction": "NA" 
+},
+{
+ "id": "190",
+"source": "7290",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "191",
+"source": "7290",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "192",
+"source": "7290",
+"target": "C118739",
+"direction": "NA" 
+},
+{
+ "id": "193",
+"source": "7290",
+"target": "D004958",
+"direction": "NA" 
+},
+{
+ "id": "194",
+"source": "7290",
+"target": "D008741",
+"direction": "NA" 
+},
+{
+ "id": "195",
+"source": "7290",
+"target": "D015125",
+"direction": "NA" 
+},
+{
+ "id": "196",
+"source": "7290",
+"target": "C046012",
+"direction": "NA" 
+},
+{
+ "id": "197",
+"source": "7290",
+"target": "C061133",
+"direction": "NA" 
+},
+{
+ "id": "198",
+"source": "7290",
+"target": "D013749",
+"direction": "NA" 
+},
+{
+ "id": "199",
+"source": "7290",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "200",
+"source": "7290",
+"target": "C012589",
+"direction": "NA" 
+},
+{
+ "id": "201",
+"source": "7290",
+"target": "D014284",
+"direction": "NA" 
+},
+{
+ "id": "202",
+"source": "23077",
+"target": "C459179",
+"direction": "NA" 
+},
+{
+ "id": "203",
+"source": "23077",
+"target": "C516138",
+"direction": "NA" 
+},
+{
+ "id": "204",
+"source": "23077",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "205",
+"source": "23077",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "206",
+"source": "23077",
+"target": "C006632",
+"direction": "NA" 
+},
+{
+ "id": "207",
+"source": "23077",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "208",
+"source": "23077",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "209",
+"source": "23077",
+"target": "D003375",
+"direction": "NA" 
+},
+{
+ "id": "210",
+"source": "23077",
+"target": "D003907",
+"direction": "NA" 
+},
+{
+ "id": "211",
+"source": "23077",
+"target": "C045651",
+"direction": "NA" 
+},
+{
+ "id": "212",
+"source": "23077",
+"target": "D004958",
+"direction": "NA" 
+},
+{
+ "id": "213",
+"source": "23077",
+"target": "C106014",
+"direction": "NA" 
+},
+{
+ "id": "214",
+"source": "23077",
+"target": "D006830",
+"direction": "NA" 
+},
+{
+ "id": "215",
+"source": "23077",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "216",
+"source": "23077",
+"target": "D008942",
+"direction": "NA" 
+},
+{
+ "id": "217",
+"source": "23077",
+"target": "D010634",
+"direction": "NA" 
+},
+{
+ "id": "218",
+"source": "23077",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "219",
+"source": "23077",
+"target": "D018038",
+"direction": "NA" 
+},
+{
+ "id": "220",
+"source": "23077",
+"target": "C012589",
+"direction": "NA" 
+},
+{
+ "id": "221",
+"source": "23077",
+"target": "C050414",
+"direction": "NA" 
+},
+{
+ "id": "222",
+"source": "23077",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "223",
+"source": "8661",
+"target": "D015123",
+"direction": "NA" 
+},
+{
+ "id": "224",
+"source": "8661",
+"target": "D000082",
+"direction": "NA" 
+},
+{
+ "id": "225",
+"source": "8661",
+"target": "D001205",
+"direction": "NA" 
+},
+{
+ "id": "226",
+"source": "8661",
+"target": "D002220",
+"direction": "NA" 
+},
+{
+ "id": "227",
+"source": "8661",
+"target": "D002945",
+"direction": "NA" 
+},
+{
+ "id": "228",
+"source": "8661",
+"target": "D003300",
+"direction": "NA" 
+},
+{
+ "id": "229",
+"source": "8661",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "230",
+"source": "8661",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "231",
+"source": "8661",
+"target": "D003703",
+"direction": "NA" 
+},
+{
+ "id": "232",
+"source": "8661",
+"target": "D004008",
+"direction": "NA" 
+},
+{
+ "id": "233",
+"source": "8661",
+"target": "D004317",
+"direction": "NA" 
+},
+{
+ "id": "234",
+"source": "8661",
+"target": "D004391",
+"direction": "NA" 
+},
+{
+ "id": "235",
+"source": "8661",
+"target": "D005047",
+"direction": "NA" 
+},
+{
+ "id": "236",
+"source": "8661",
+"target": "D006861",
+"direction": "NA" 
+},
+{
+ "id": "237",
+"source": "8661",
+"target": "C013038",
+"direction": "NA" 
+},
+{
+ "id": "238",
+"source": "8661",
+"target": "C558013",
+"direction": "NA" 
+},
+{
+ "id": "239",
+"source": "8661",
+"target": "D011794",
+"direction": "NA" 
+},
+{
+ "id": "240",
+"source": "8661",
+"target": "D012643",
+"direction": "NA" 
+},
+{
+ "id": "241",
+"source": "8661",
+"target": "D018038",
+"direction": "NA" 
+},
+{
+ "id": "242",
+"source": "8661",
+"target": "C061133",
+"direction": "NA" 
+},
+{
+ "id": "243",
+"source": "8661",
+"target": "D013806",
+"direction": "NA" 
+},
+{
+ "id": "244",
+"source": "8661",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "245",
+"source": "8661",
+"target": "D014810",
+"direction": "NA" 
+},
+{
+ "id": "246",
+"source": "3983",
+"target": "D015124",
+"direction": "NA" 
+},
+{
+ "id": "247",
+"source": "3983",
+"target": "D000082",
+"direction": "NA" 
+},
+{
+ "id": "248",
+"source": "3983",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "249",
+"source": "3983",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "250",
+"source": "3983",
+"target": "C006632",
+"direction": "NA" 
+},
+{
+ "id": "251",
+"source": "3983",
+"target": "D001554",
+"direction": "NA" 
+},
+{
+ "id": "252",
+"source": "3983",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "253",
+"source": "3983",
+"target": "C044887",
+"direction": "NA" 
+},
+{
+ "id": "254",
+"source": "3983",
+"target": "C006780",
+"direction": "NA" 
+},
+{
+ "id": "255",
+"source": "3983",
+"target": "D002117",
+"direction": "NA" 
+},
+{
+ "id": "256",
+"source": "3983",
+"target": "D016572",
+"direction": "NA" 
+},
+{
+ "id": "257",
+"source": "3983",
+"target": "D004317",
+"direction": "NA" 
+},
+{
+ "id": "258",
+"source": "3983",
+"target": "D004791",
+"direction": "NA" 
+},
+{
+ "id": "259",
+"source": "3983",
+"target": "D004958",
+"direction": "NA" 
+},
+{
+ "id": "260",
+"source": "3983",
+"target": "D005020",
+"direction": "NA" 
+},
+{
+ "id": "261",
+"source": "3983",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "262",
+"source": "3983",
+"target": "D058185",
+"direction": "NA" 
+},
+{
+ "id": "263",
+"source": "3983",
+"target": "D008741",
+"direction": "NA" 
+},
+{
+ "id": "264",
+"source": "3983",
+"target": "D015735",
+"direction": "NA" 
+},
+{
+ "id": "265",
+"source": "3983",
+"target": "D016685",
+"direction": "NA" 
+},
+{
+ "id": "266",
+"source": "3983",
+"target": "C029938",
+"direction": "NA" 
+},
+{
+ "id": "267",
+"source": "3983",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "268",
+"source": "3983",
+"target": "D011374",
+"direction": "NA" 
+},
+{
+ "id": "269",
+"source": "3983",
+"target": "C059514",
+"direction": "NA" 
+},
+{
+ "id": "270",
+"source": "3983",
+"target": "C078903",
+"direction": "NA" 
+},
+{
+ "id": "271",
+"source": "3983",
+"target": "D012906",
+"direction": "NA" 
+},
+{
+ "id": "272",
+"source": "3983",
+"target": "D004113",
+"direction": "NA" 
+},
+{
+ "id": "273",
+"source": "3983",
+"target": "D020122",
+"direction": "NA" 
+},
+{
+ "id": "274",
+"source": "3983",
+"target": "D014638",
+"direction": "NA" 
+},
+{
+ "id": "275",
+"source": "3983",
+"target": "D014747",
+"direction": "NA" 
+},
+{
+ "id": "276",
+"source": "6792",
+"target": "D016604",
+"direction": "NA" 
+},
+{
+ "id": "277",
+"source": "6792",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "278",
+"source": "6792",
+"target": "D001564",
+"direction": "NA" 
+},
+{
+ "id": "279",
+"source": "6792",
+"target": "D002945",
+"direction": "NA" 
+},
+{
+ "id": "280",
+"source": "6792",
+"target": "D003375",
+"direction": "NA" 
+},
+{
+ "id": "281",
+"source": "6792",
+"target": "C045651",
+"direction": "NA" 
+},
+{
+ "id": "282",
+"source": "6792",
+"target": "C561695",
+"direction": "NA" 
+},
+{
+ "id": "283",
+"source": "6792",
+"target": "C029938",
+"direction": "NA" 
+},
+{
+ "id": "284",
+"source": "6792",
+"target": "C027373",
+"direction": "NA" 
+},
+{
+ "id": "285",
+"source": "6792",
+"target": "C059514",
+"direction": "NA" 
+},
+{
+ "id": "286",
+"source": "6792",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "287",
+"source": "2121",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "288",
+"source": "2121",
+"target": "C018475",
+"direction": "NA" 
+},
+{
+ "id": "289",
+"source": "2121",
+"target": "D002117",
+"direction": "NA" 
+},
+{
+ "id": "290",
+"source": "2121",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "291",
+"source": "2121",
+"target": "D005557",
+"direction": "NA" 
+},
+{
+ "id": "292",
+"source": "2121",
+"target": "D009532",
+"direction": "NA" 
+},
+{
+ "id": "293",
+"source": "2121",
+"target": "D012643",
+"direction": "NA" 
+},
+{
+ "id": "294",
+"source": "2121",
+"target": "D013739",
+"direction": "NA" 
+},
+{
+ "id": "295",
+"source": "2121",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "296",
+"source": "2121",
+"target": "D014750",
+"direction": "NA" 
+},
+{
+ "id": "297",
+"source": "9967",
+"target": "D018501",
+"direction": "NA" 
+},
+{
+ "id": "298",
+"source": "9967",
+"target": "D017638",
+"direction": "NA" 
+},
+{
+ "id": "299",
+"source": "9967",
+"target": "C584509",
+"direction": "NA" 
+},
+{
+ "id": "300",
+"source": "9967",
+"target": "D002273",
+"direction": "NA" 
+},
+{
+ "id": "301",
+"source": "9967",
+"target": "D004791",
+"direction": "NA" 
+},
+{
+ "id": "302",
+"source": "9967",
+"target": "D006830",
+"direction": "NA" 
+},
+{
+ "id": "303",
+"source": "9967",
+"target": "C051890",
+"direction": "NA" 
+},
+{
+ "id": "304",
+"source": "9967",
+"target": "D010936",
+"direction": "NA" 
+},
+{
+ "id": "305",
+"source": "9967",
+"target": "D013849",
+"direction": "NA" 
+},
+{
+ "id": "306",
+"source": "9967",
+"target": "D014212",
+"direction": "NA" 
+},
+{
+ "id": "307",
+"source": "9967",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "308",
+"source": "9967",
+"target": "C111237",
+"direction": "NA" 
+},
+{
+ "id": "309",
+"source": "259282",
+"target": "C006632",
+"direction": "NA" 
+},
+{
+ "id": "310",
+"source": "259282",
+"target": "D003010",
+"direction": "NA" 
+},
+{
+ "id": "311",
+"source": "259282",
+"target": "D019327",
+"direction": "NA" 
+},
+{
+ "id": "312",
+"source": "259282",
+"target": "C001277",
+"direction": "NA" 
+},
+{
+ "id": "313",
+"source": "259282",
+"target": "C051890",
+"direction": "NA" 
+},
+{
+ "id": "314",
+"source": "259282",
+"target": "C076994",
+"direction": "NA" 
+},
+{
+ "id": "315",
+"source": "259282",
+"target": "D013849",
+"direction": "NA" 
+},
+{
+ "id": "316",
+"source": "259282",
+"target": "D014635",
+"direction": "NA" 
+},
+{
+ "id": "317",
+"source": "259282",
+"target": "C111237",
+"direction": "NA" 
+} ],
+"org": "hsa",
+"analType": "genelist",
+"naviString": "network",
+"modules": "63;2;1.07e-15;2033->23077->C477819->C093973->C038890->C014211->C434003->D015124->C037112->C056165->D000111->D000666->C088115->D001152->C006632->C072553->D001599->C006780->D020148->D002166->D002945->C018021->D003474->C014347->C499810->D003907->D004054->D013196->C007517->D004317->D004610->C118739->D020536->D004958->D005047->C054597->C106014->D019833->D005947->D006820->C011890->C530478->D008942->C016599->D009534->D009853->D010100->D052638->C410127->D010634->D010656->C006253->C484876->C002979->D012822->D018038->D013481->D013629->D013755->C050414->D014580->D001335->D015032||42;4;0.0127;546->55668->7290->259282->C459179->C516138->D015123->D000082->D000638->D001710->D000069286->C546611->C018475->D003010->D019327->D016572->D003976->D004397->C001277->D006861->C051890->D008741->D009538->D015125->D010278->C046012->C076994->D010936->D011078->C547185->D012293->C061133->C012568->C004648->D013849->C483909->D014212->C012589->D014284->D014635->C111237->C088658||24;4;0.417;8925->92017->6792->9967->C029497->D016604->C032311->D018501->D017638->D001564->C584509->D002273->D003375->C045651->D006830->C561695->D008558->D008727->D009153->C029938->C027373->C059514->C017947->D013749||14;1;0.00219;3983->D001554->C044887->D005020->D058185->D015735->D016685->D011374->C078903->D012906->D004113->D020122->D014638->D014747||13;1;0.0328;8661->D001205->D002220->D003300->D003703->D004008->D004391->C013038->C558013->D011794->D012643->D013806->D014810||10;1;0.0642;8731->C015262->D002104->C030973->D004791->C410337->D007854->D008094->C022838->D010938||6;1;0.673;2121->D002117->D005557->D009532->D013739->D014750",
+"tblNm": "NA",
+"nodeTypes": [ "Chemical", "Seed" ],
+"nodeColors": [ "#4363d8", "#BD0313" ],
+"idType": "entrez",
+"gene_lists": null 
+}

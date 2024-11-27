@@ -1,0 +1,5 @@
+Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes	
+DNA-templated DNA Replication Maintenance Of Fidelity (GO:0045005)	Feb-43	4.04E-04	0.027242934	0	0	81.07723577	633.507213	BOD1L1;ATRX	
+Replication Fork Processing (GO:0031297)	Feb-46	4.63E-04	0.027242934	0	0	75.53787879	580.0093519	BOD1L1;ATRX	
+Positive Regulation Of Cell Projection Organization (GO:0031346)	2/118	0.002998619	0.062566235	0	0	28.54885057	165.857499	CDKL5;EP300	
+7-Methylguanosine RNA Capping (GO:0009452)	5-Jan	0.003495399	0.062566235	0	0	384.2692308	2173.545039	RNMT	
